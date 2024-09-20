@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auzzton
-- 👀 I’m interested in frontend, backend and design development
-- 🌱 I’m currently learning frontend and backend
-- 💞️ I’m looking to collaborate on application related projects
+- 👀 I’m interested in full stack development and building AI/ML models
+- 🌱 I’m currently learning Full Stack development and Machine Learning
+- 💞️ I’m looking to collaborate with any web devs or ai/ml devs
 
 
 <!---
