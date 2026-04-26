@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auzzton
-- 👀 I’m interested in full stack development.
+- 👀 I’m interested in full stack development and building AI engineered products.
 - 🌱 I’m currently learning how to build infrastructure for ML models.
-- 💞️ I’m looking to work with any SaaS or AI devs
+- 💞️ I’m looking to work with any SaaS or AI devs.
 
 
 <!---
